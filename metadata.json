@@ -1,0 +1,5 @@
+{
+  "name": "Blender 3D For Web-Browser",
+  "description": "A sophisticated, in-browser 3D scene editor inspired by Blender. Users can add, select, and manipulate 3D objects like cubes, spheres, and tori. Features a real-time 3D viewport, an object outliner, and a detailed properties panel for precise control over position, rotation, scale, and color.",
+  "requestFramePermissions": []
+}
